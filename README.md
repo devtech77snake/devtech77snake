@@ -2,7 +2,7 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;Senior+Web+Developer;Android+%26+iOS+App+Developer;Especially+Backend+Development" alt="devtech77snake" /></a>
 </p>
 
-<!-- Short Introduction -->   
+<!-- Short Introduction -->
 
 <h1 align = "left">
   Hi, there. <img src="https://github.com/devtech77snake/devtech77snake/blob/main/wave.gif" width="30" />
@@ -15,9 +15,15 @@
 
 <p><img align="right" width="30%" src="computer-illustration.png" alt="devtech77snake" /></p>
 
-<p>I am a Full-stack web developer with over 9 years of experience analyzing, designing, developing, and integrating front-end & back-end based applications. Possesses knowledge of web application using HTML, CSS, JavaScript, TypeScript, PHP. 🌐</p>
-<p>Also, I have rich experience in React.js, AngularJS, Vue.js, Next.js, ExpressJS, Node.js, Django, Flask, GraphAQL etc. 💪 And, I have strong experience with SQL including MySQL, PostgreSQL, SQLite and Oracle and NoSQL databases including MongoDB and GraphQL. ⚙</p>
-<p>Then, I have experience Building the infrastructure for CI/CD with Firebase, Docker, Kubernetes. Proficient in handling large datasets using SQL and NoSQL databases, and well-versed in leveraging containerization tools like Docker and Kubernetes for deploying AI models. 🧠</p>
+<p>I am a creative software engineer with practical experience in website and mobile app development. Additionally, I am very proficient in technologies such as Docker and Kubernetes, and especially have deep knowledge and rich experience in Cloud technology like AWS.</p>
+<p>Over the years, my passion for problem-solving has led me to craft efficient, scalable, and reliable solutions for a diverse range of complex software problems.</p>
+<p>I am proficient in various technologies, languages, and frameworks. My toolkit includes but is not limited to:</p>
+<p>- Front-End: JavaScript(ES6+), TypeScript, React, Next, Redux, Angular, Vue.js</p>
+<p>- Back-End: Node.js, Express.js, Python, Django, Flask, Java, Spring Boot</p>
+<p>- Mobile Development: Reacct Native, Flutter, Swift, Kotlin</p>
+<p>- Database: MySQL, PostgreSQL, Oracle, SQLite, MongoDB, Firebase, Supabase</p>
+<p>- Tools & Others: Docker, AWS, Google Cloud, GitHub, Jenkins, Jira</p>
+<p>I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!</p>
 <p></p>
 
 <!-- Skills Section -->
