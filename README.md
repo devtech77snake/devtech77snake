@@ -21,21 +21,21 @@
 
 #### Web Development
 
-<p>- Front-End: JavaScript(ES6+), TypeScript, React, Next, Redux, Angular, Vue.js</p>
-<p>- Back-End: Node.js, Express.js, Python, Django, Flask, Java, Spring Boot</p>
-<p>- Database: MySQL, PostgreSQL, Oracle, SQLite, MongoDB, Firebase, Supabase</p>
+-   Front-End: JavaScript(ES6+), TypeScript, React, Next, Redux, Angular, Vue.js
+-   Back-End: Node.js, Express.js, Python, Django, Flask, Java, Spring Boot
+-   Database: MySQL, PostgreSQL, Oracle, SQLite, MongoDB, Firebase, Supabase
 
 #### Mobile Development
 
-<p>- React Native</p>
-<p>- Flutter</p>
-<p>- Swift</p>
-<p>- Kotlin</p>
+-   React Native
+-   Flutter
+-   Swift
+-   Kotlin
 
 #### Tools & Others
 
-<p>- Docker, Google Cloud, GitHub, Jenkins, Jira</p>
-<p>- Amazon Web Services(Lambda, EC@, S3, Secret Manager, SNS, SES, Route53, AWS RDS, DynamoDB, etc)</p>
+-   Docker, Google Cloud, GitHub, Jenkins, Jira
+-   Amazon Web Services(Lambda, EC@, S3, Secret Manager, SNS, SES, Route53, AWS RDS, DynamoDB, etc)
 
 <p>I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!</p>
 <p></p>
