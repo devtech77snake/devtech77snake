@@ -18,11 +18,25 @@
 <p>I am a creative software engineer with practical experience in website and mobile app development. Additionally, I am very proficient in technologies such as Docker and Kubernetes, and especially have deep knowledge and rich experience in Cloud technology like AWS.</p>
 <p>Over the years, my passion for problem-solving has led me to craft efficient, scalable, and reliable solutions for a diverse range of complex software problems.</p>
 <p>I am proficient in various technologies, languages, and frameworks. My toolkit includes but is not limited to:</p>
+
+#### Web Development
+
 <p>- Front-End: JavaScript(ES6+), TypeScript, React, Next, Redux, Angular, Vue.js</p>
 <p>- Back-End: Node.js, Express.js, Python, Django, Flask, Java, Spring Boot</p>
-<p>- Mobile Development: Reacct Native, Flutter, Swift, Kotlin</p>
 <p>- Database: MySQL, PostgreSQL, Oracle, SQLite, MongoDB, Firebase, Supabase</p>
-<p>- Tools & Others: Docker, AWS, Google Cloud, GitHub, Jenkins, Jira</p>
+
+#### Mobile Development
+
+<p>- React Native</p>
+<p>- Flutter</p>
+<p>- Swift</p>
+<p>- Kotlin</p>
+
+#### Tools & Others
+
+<p>- Docker, Google Cloud, GitHub, Jenkins, Jira</p>
+<p>- Amazon Web Services(Lambda, EC@, S3, Secret Manager, SNS, SES, Route53, AWS RDS, DynamoDB, etc)</p>
+
 <p>I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!</p>
 <p></p>
 
