@@ -6,18 +6,18 @@
 
 <h1 align = "left">
   Hi, there. <img src="https://github.com/devtech77snake/devtech77snake/blob/main/wave.gif" width="30" />
-  
-  ### Thanks for visiting :heart:
+
+   ### Thanks for visiting :heart:
   ![VisitorCount](https://profile-counter.glitch.me/devtech77snake/count.svg)
   &emsp;
   
 </h1>
 
-<p><img align="right" width="30%" src="computer-illustration.png" alt="devtech77snake" /></p>
-
 <p>I am a creative software engineer with practical experience in website and mobile app development. Additionally, I am very proficient in technologies such as Docker and Kubernetes, and especially have deep knowledge and rich experience in Cloud technology like AWS.</p>
 <p>Over the years, my passion for problem-solving has led me to craft efficient, scalable, and reliable solutions for a diverse range of complex software problems.</p>
 <p>I am proficient in various technologies, languages, and frameworks. My toolkit includes but is not limited to:</p>
+
+<p><img align="right" width="30%" src="computer-illustration.png" alt="devtech77snake" /></p>
 
 #### Web Development
 
@@ -45,31 +45,23 @@
 
 <div>
 
-<!-- Languages -->
-
 #### 🔥Major Programming Languages:
 
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,html,css,sass,js,jquery,ts,threejs,php,py,dotnet,go,ruby,solidity,java,swift,kotlin" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,threejs,php,java,py,go,solidity,swift,kotlin" />
   </div>
-
-<!-- Libraries and Frameworks -->
 
 #### ⛓️Frameworks and Skills:
 
   <div align="left">      
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,react,redux,nextjs,vue,nuxtjs,angular,nodejs,express,django,flask,laravel,symfony,rails,svelte,rust,nestjs,flutter,hibernate,spring,figma,webflow,wordpress,pytorch,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux,nextjs,vue,nuxtjs,angular,nodejs,express,django,flask,laravel,flutter,spring,figma,webflow,wordpress,pytorch,tensorflow" />
   </div>
-
-<!-- Databases -->
-
+  
 #### 🧵Database & Skills:
 
   <div align="left">      
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,graphql,firebase,supabase,redis,postman" />
   </div>
-
-<!-- Tools and Technologies -->
 
 #### ⚡️Other Essentials:
 
