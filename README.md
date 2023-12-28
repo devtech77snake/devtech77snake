@@ -15,13 +15,13 @@
 
 <p>I am a creative software engineer with practical experience in website and mobile app development. Additionally, I am very proficient in technologies such as Docker and Kubernetes, and especially have deep knowledge and rich experience in Cloud technology like AWS.</p>
 
-<p><img align="right" width="30%" src="computer-illustration.png" alt="devtech77snake" /></p>
-
 #### Web Development
 
 -   Front-End: JavaScript(ES6+), TypeScript, React, Next, Redux, Angular, Vue.js
 -   Back-End: Node.js, Express.js, Python, Django, Flask, Java, Spring Boot
 -   Database: MySQL, PostgreSQL, Oracle, SQLite, MongoDB, Firebase, Supabase
+
+  <p><img align="right" width="30%" src="computer-illustration.png" alt="devtech77snake" /></p>
 
 #### Mobile Development
 
