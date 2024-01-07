@@ -33,7 +33,7 @@
 #### Tools & Others
 
 -   Docker, Google Cloud, GitHub, Jenkins, Jira
--   Amazon Web Services(Lambda, EC@, S3, Secret Manager, SNS, SES, Route53, AWS RDS, DynamoDB, etc)
+-   Amazon Web Services(Lambda, EC2, S3, Secret Manager, SNS, SES, Route53, AWS RDS, DynamoDB, etc)
 
 <p>I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!</p>
 <p></p>
