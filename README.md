@@ -32,8 +32,10 @@
 
 #### Tools & Others
 
--   Docker, Google Cloud, GitHub, Jenkins, Jira
+-   Docker, Kubernetes, Ngnix, GitHub, Jenkins, Trello, Jira
 -   Amazon Web Services(Lambda, EC2, S3, Secret Manager, SNS, SES, Route53, AWS RDS, DynamoDB, etc)
+-   Google Cloud Platform
+-   Microsoft Azure
 
 <p>I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!</p>
 <p></p>
@@ -64,6 +66,6 @@
 #### ⚡️Other Essentials:
 
   <div align="left">      
-    <img src="https://skillicons.dev/icons?i=git,gitlab,github,powershell,linux,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,ai,bots" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github,powershell,linux,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,azure,ai,bots" />
   </div>
 </div>
