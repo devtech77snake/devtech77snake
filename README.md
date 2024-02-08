@@ -17,9 +17,10 @@
 
 #### Web Development
 
--   Front-End: JavaScript(ES6+), TypeScript, React, Next, Redux, Angular, Vue.js
--   Back-End: Node.js, Express.js, Python, Django, Flask, Java, Spring Boot
--   Database: MySQL, PostgreSQL, Oracle, SQLite, MongoDB, Firebase, Supabase
+-   Basic: JavaScript, TypeScript, Python, Java, Ruby on Rails, Golang, C#, C++
+-   Front-End: React.js, Next.js, Redux, AngularJS, Vue.js, Nuxt.js
+-   Back-End: Node.js, Express.js, Nest.js, Python, Django, Flask, Java, Spring Boot, Ruby on Rails, dotNet
+-   Database: MySQL, PostgreSQL, Oracle, SQLite, MongoDB
 
   <p><img align="right" width="30%" src="computer-illustration.png" alt="devtech77snake" /></p>
 
@@ -29,6 +30,7 @@
 -   Flutter
 -   Swift
 -   Kotlin
+-   Bubble.io, FlutterFlow
 
 #### Tools & Others
 
