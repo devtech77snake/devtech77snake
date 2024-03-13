@@ -50,13 +50,14 @@
 #### 🔥Major Programming Languages:
 
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,threejs,php,java,py,go,solidity,swift,kotlin" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,threejs,php,java,py,go,ruby,solidity,swift,kotlin" />
   </div>
 
 #### ⛓️Frameworks and Skills:
 
   <div align="left">      
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux,nextjs,vue,nuxtjs,angular,nodejs,express,django,flask,laravel,flutter,spring,figma,webflow,wordpress,pytorch,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux,nextjs,vue,nuxtjs,angular" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,spring,django,flask,pytorch,tensorflow,figma,flutter,webflow,wordpress" />
   </div>
   
 #### 🧵Database & Skills:
