@@ -19,7 +19,7 @@
 
 -   Basic: JavaScript, TypeScript, Python, Java, Ruby on Rails, Golang, C#, C++
 -   Front-End: React.js, Next.js, Redux, AngularJS, Vue.js, Nuxt.js
--   Back-End: Node.js, Express.js, Nest.js, Python, Django, Flask, Java, Spring Boot, Ruby on Rails, dotNet
+-   Back-End: Node.js, Express.js, Nest.js, Python, Django, Flask, Java, Spring Boot, Ruby on Rails, .Net
 -   Database: MySQL, PostgreSQL, Oracle, SQLite, MongoDB
 
   <p><img align="right" width="30%" src="computer-illustration.png" alt="devtech77snake" /></p>
@@ -50,14 +50,14 @@
 #### 🔥Major Programming Languages:
 
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,threejs,php,java,py,go,ruby,solidity,swift,kotlin" />
+    <img src="https://skillicons.dev/icons?i=html,css,jquery,js,ts,threejs,php,java,py,go,ruby,cs,cpp,solidity,swift,kotlin" />
   </div>
 
 #### ⛓️Frameworks and Skills:
 
   <div align="left">      
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux,nextjs,vue,nuxtjs,angular" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,spring,django,flask,pytorch,tensorflow,figma,flutter,webflow,wordpress" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,spring,django,flask,pytorch,tensorflow,dotnet,figma,flutter,webflow,wordpress" />
   </div>
   
 #### 🧵Database & Skills:
@@ -69,6 +69,6 @@
 #### ⚡️Other Essentials:
 
   <div align="left">      
-    <img src="https://skillicons.dev/icons?i=git,gitlab,github,powershell,linux,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,azure,ai,bots" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github,powershell,linux,bash,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,azure,ai,bots" />
   </div>
 </div>
