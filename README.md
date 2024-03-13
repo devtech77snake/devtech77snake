@@ -50,7 +50,7 @@
 #### 🔥Major Programming Languages:
 
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,jquery,js,ts,threejs,php,java,py,go,ruby,cs,cpp,solidity,swift,kotlin" />
+    <img src="https://skillicons.dev/icons?i=html,css,jquery,js,ts,threejs,php,java,py,go,ruby,cs,solidity,swift,kotlin" />
   </div>
 
 #### ⛓️Frameworks and Skills:
